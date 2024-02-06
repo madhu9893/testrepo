@@ -2,7 +2,7 @@
 terraform {
   required_providers {
     aws = {
-      source  = "azure"
+      source  = "azure changes"
       
     }
   }
